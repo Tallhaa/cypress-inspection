@@ -1,4 +1,4 @@
-name: E2E tests
+name: edge tests
 on: push
 jobs:
   cypress-run:
